@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: cornsilk;
+    font-family: sans-serif;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+li {
+    list-style-position: inside;
+    max-width:20%;
+    margin:auto;
+    text-align:left;
+}
+
+.list-name {
+    text-align: center;
+}
+
+.link {
+    margin: auto;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    max-width: 100%;
+    
+}
