@@ -1,29 +1,43 @@
+
+.title {
+    margin: 16px auto;
+    background: white;
+    width: 300px;
+    border: 5px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+.recipes {
+    background-color: white;
+    border: 5px solid black;
+    width: 300px;
+    margin: 16px auto;
+    text-align: left;
+    padding: 5px;
+}
+
 body {
-    text-align: center;
-    background-color: cornsilk;
-    font-family: sans-serif;
-}
-
-ul {
-    list-style-position: inside;
-}
-
-li {
-    list-style-position: inside;
-    max-width:20%;
-    margin:auto;
-    text-align:left;
-}
-
-.list-name {
-    text-align: center;
+    background-color: wheat;
+    font-family: sans-serif, Helvetica;
 }
 
 .link {
-    margin: auto;
-    color: black;
-    font-size: 15px;
     font-weight: bold;
-    max-width: 100%;
-    
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:active {
+    color: black;
+}
+
+a:hover {
+    color: black;
 }
